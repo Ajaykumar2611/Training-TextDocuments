@@ -1,0 +1,14 @@
+Start
+Input variable count
+i=1
+i<=Count
+If num % == 0
+Even
+n * n 
+else
+odd
+n *  n * n
+End if
+i++
+
+End
